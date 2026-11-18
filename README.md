@@ -29,3 +29,15 @@ Shrish Keshri for a Git and GitHub practical assignment.
 Shrish Keshri
 
 GitHub: https://github.com/Shrishkeshri
+
+## Student Details
+
+**Full Name:** Shrish Keshri
+
+**URN Number:** E25B032561
+
+**Semester:** 3rd Semester
+
+**Section:** A
+
+**Subject:** Git and GitHub
